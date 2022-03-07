@@ -31,3 +31,27 @@
 [submodule "kata11"]
 	path = kata11
 	url = https://github.com/ALinaNahidi/kata11
+[submodule "kata12"]
+	path = kata12
+	url = https://github.com/ALinaNahidi/kata12
+[submodule "kata13"]
+	path = kata13
+	url = https://github.com/ALinaNahidi/kata13
+[submodule "kata14"]
+	path = kata14
+	url = https://github.com/ALinaNahidi/kata14
+[submodule "kata15"]
+	path = kata15
+	url = https://github.com/ALinaNahidi/kata15
+[submodule "kata16"]
+	path = kata16
+	url = https://github.com/ALinaNahidi/kata16
+[submodule "kata17"]
+	path = kata17
+	url = https://github.com/ALinaNahidi/kata17
+[submodule "kata18"]
+	path = kata18
+	url = https://github.com/ALinaNahidi/kata18
+[submodule "kata19"]
+	path = kata19
+	url = https://github.com/ALinaNahidi/kata19
