@@ -1,3 +1,33 @@
 [submodule "kata1"]
 	path = kata1
 	url = https://github.com/ALinaNahidi/katasfinal.git
+[submodule "kata2"]
+	path = kata2
+	url = https://github.com/ALinaNahidi/kata2
+[submodule "kata3"]
+	path = kata3
+	url = https://github.com/ALinaNahidi/kata3
+[submodule "kata4"]
+	path = kata4
+	url = https://github.com/ALinaNahidi/kata4
+[submodule "kata6"]
+	path = kata6
+	url = https://github.com/ALinaNahidi/kata6
+[submodule "kata7"]
+	path = kata7
+	url = https://github.com/ALinaNahidi/kata7
+[submodule "kata8"]
+	path = kata8
+	url = https://github.com/ALinaNahidi/kata8
+[submodule "kata9"]
+	path = kata9
+	url = https://github.com/ALinaNahidi/kata9
+[submodule "kata10"]
+	path = kata10
+	url = https://github.com/ALinaNahidi/kata10
+[submodule "kata5"]
+	path = kata5
+	url = https://github.com/ALinaNahidi/keta5
+[submodule "kata11"]
+	path = kata11
+	url = https://github.com/ALinaNahidi/kata11
