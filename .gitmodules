@@ -1,0 +1,3 @@
+[submodule "kata1"]
+	path = kata1
+	url = https://github.com/ALinaNahidi/katasfinal.git
